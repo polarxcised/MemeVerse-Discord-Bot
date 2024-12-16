@@ -47,14 +47,10 @@ Memeverse comes packed with **20+ commands** that will entertain and engage your
 
 ## **🚀 Getting Started**  
 
-### **1. Invite Memeverse to Your Server**  
-Click the link below to invite Memeverse to your server:  
-👉 [https://discord.gg/ehdUu457tB](https://discord.gg/ehdUu457tB)  
-
-### **2. Command List**  
+### **1. Command List**  
 Once Memeverse is in your server, type **`!what`** to see all the available commands and learn how to use them.  
 
-### **3. Enjoy the Fun!**  
+### **2. Enjoy the Fun!**  
 Start using the commands and watch your server come alive with laughs, facts, and endless fun!  
 
 ---
