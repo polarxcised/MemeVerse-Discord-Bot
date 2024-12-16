@@ -63,7 +63,7 @@ Start using the commands and watch your server come alive with laughs, facts, an
 1. Open a terminal.  
 2. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/Memeverse.git
+   git clone https://github.com/YourUsername/MemeVerse-Discord-Bot.git
    cd Memeverse
    ```
 3. Install dependencies:  
@@ -89,7 +89,7 @@ Start using the commands and watch your server come alive with laughs, facts, an
 1. Open the **Terminal**.  
 2. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/Memeverse.git
+   git clone https://github.com/YourUsername/MemeVerse-Discord-Bot.git
    cd Memeverse
    ```
 3. Install dependencies:  
@@ -116,7 +116,7 @@ Start using the commands and watch your server come alive with laughs, facts, an
 2. Open **Command Prompt (CMD)** or **PowerShell**.  
 3. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/Memeverse.git
+   git clone https://github.com/YourUsername/MemeVerse-Discord-Bot.git
    cd Memeverse
    ```
 4. Install dependencies:  
