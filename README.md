@@ -1,14 +1,12 @@
-Here’s a **stunning README** tailored for your bot, designed to attract users and provide clear instructions on how to use and deploy it. 
-
 ---
 
-# **FunBot 🤖🎉**  
-Your ultimate Discord companion for jokes, GIFs, insults, advice, and more! Bring endless fun and entertainment to your server with **FunBot**!  
+# **Memeverse 🤖🎉**  
+Your ultimate Discord bot for **jokes, GIFs, insults, advice, and more**! Whether you're looking for a laugh, fun facts, or just something to spice up your server, **Memeverse** has got you covered.  
 
 ---
 
 ## **🌟 Features**  
-FunBot is packed with **20+ commands** designed to keep your community entertained and engaged:  
+Memeverse comes packed with **20+ commands** that will entertain and engage your community:  
 
 ### 🎥 **GIF Commands**  
 - **`!gif [tag]`**: Fetch a random GIF by tag (e.g., funny, cat).  
@@ -17,7 +15,7 @@ FunBot is packed with **20+ commands** designed to keep your community entertain
 
 ### 😂 **Joke Commands**  
 - **`!joke`**: Get a random joke.  
-- **`!jokeprogramming`**: Programming humor for the tech-savvy.  
+- **`!jokeprogramming`**: Programming humor for techies.  
 - **`!jokegeneral`**: A general joke for everyone.  
 
 ### 🎤 **Insult Commands**  
@@ -27,7 +25,7 @@ FunBot is packed with **20+ commands** designed to keep your community entertain
 
 ### 💡 **Fact Commands**  
 - **`!randomfact`**: Learn something new and random.  
-- **`!funfact`**: Get a fun fact to share.  
+- **`!funfact`**: Share a fun fact with your server.  
 - **`!uselessfact`**: Impress others with a truly useless fact.  
 
 ### 🧠 **Advice Commands**  
@@ -49,15 +47,15 @@ FunBot is packed with **20+ commands** designed to keep your community entertain
 
 ## **🚀 Getting Started**  
 
-### **1. Invite FunBot to Your Server**  
-Click the link below to invite FunBot to your server:  
+### **1. Invite Memeverse to Your Server**  
+Click the link below to invite Memeverse to your server:  
 👉 [https://discord.gg/ehdUu457tB](https://discord.gg/ehdUu457tB)  
 
 ### **2. Command List**  
-Once FunBot is in your server, type **`!what`** to see all the available commands and learn how to use them.  
+Once Memeverse is in your server, type **`!what`** to see all the available commands and learn how to use them.  
 
-### **3. Have Fun!**  
-Start using the commands and watch your server come alive with laughter, facts, and endless fun!  
+### **3. Enjoy the Fun!**  
+Start using the commands and watch your server come alive with laughs, facts, and endless fun!  
 
 ---
 
@@ -71,8 +69,8 @@ Start using the commands and watch your server come alive with laughter, facts, 
 ### **Setup**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YourUsername/FunBot.git
-   cd FunBot
+   git clone https://github.com/YourUsername/Memeverse.git
+   cd Memeverse
    ```
 
 2. Install dependencies:  
@@ -96,7 +94,7 @@ Start using the commands and watch your server come alive with laughter, facts, 
 ## **🛠️ Customization**  
 
 - Add or modify commands in the `bot.py` file.  
-- Replace or add APIs to tailor FunBot to your community’s needs.  
+- Replace or add APIs to tailor Memeverse to your server’s needs.  
 
 ---
 
@@ -106,9 +104,5 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 ---
 
 ## **👨‍💻 Made by Ansh Kabra**  
-Enjoy using FunBot? Feedback and contributions are always welcome! Reach out or join the community here:  
-👉 [https://discord.gg/ehdUu457tB](https://discord.gg/ehdUu457tB)  
-
+Have questions or need help? Contact **AnshKabra2012** on Discord to know more about Memeverse!  
 ---
-
-This README is crafted to grab attention and guide users with clear, concise instructions. Let me know if you want to tweak it further! 🚀
