@@ -3,7 +3,8 @@
 Your ultimate Discord bot for **jokes, GIFs, insults, advice, and more**! Whether you're looking for a laugh, fun facts, or just something to spice up your server, **Memeverse** has got you covered.  
 
 ---
-
+If you want to use the bot, then first contact Anshkabra2012 on discord
+---
 ## **🌟 Features**  
 Memeverse comes packed with **20+ commands** that will entertain and engage your community:  
 
