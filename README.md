@@ -38,10 +38,6 @@ Memeverse comes packed with **20+ commands** that will entertain and engage your
 - **`!astro <lat> <lon>`**: Check astronomical conditions.  
 - **`!cloudcover <lat> <lon>`**: Cloud cover insights.  
 
-### 🌌 **Rick and Morty Commands**  
-- **`!rickchar`**: Fetch a random Rick and Morty character.  
-- **`!rickloc`**: Explore random locations from the multiverse.  
-- **`!rickstats`**: Get stats about the Rick and Morty universe.  
 
 ---
 
