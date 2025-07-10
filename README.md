@@ -147,6 +147,6 @@ This project is licensed under the MIT License. Feel free to use, modify, and sh
 
 ---
 
-## **👨‍💻 Made by Ansh Kabra**  
+## **👨‍💻 Made by polarxcised**  
 Have questions or need help? Contact **AnshKabra2012** on Discord to know more about Memeverse!  
 --- 
