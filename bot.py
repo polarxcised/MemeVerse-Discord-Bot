@@ -246,7 +246,7 @@ async def what(ctx):
     `!weather`, `!astro`, `!cloudcover` - Weather data.  
     """, inline=False)
     
-    embed.set_footer(text="Made by Ansh Kabra | Enjoy using the bot! 🚀")
+    embed.set_footer(text="Made by polarxcised | Enjoy using the bot! 🚀")
     await ctx.send(embed=embed)
 
 # Run the bot
